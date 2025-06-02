@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.metadata/
+POC/.classpath
+POC/.project
+POC/.settings/.jsdtscope
+*.prefs
+POC/.settings/org.eclipse.wst.common.component
+POC/.settings/org.eclipse.wst.common.project.facet.core.xml
+POC/.settings/org.eclipse.wst.jsdt.ui.superType.container
+POC/.settings/org.eclipse.wst.jsdt.ui.superType.name
